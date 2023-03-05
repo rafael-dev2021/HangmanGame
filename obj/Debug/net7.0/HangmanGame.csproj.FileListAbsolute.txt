@@ -1,0 +1,15 @@
+D:\ProjetosSimples\HangmanGame\bin\Debug\net7.0\HangmanGame.exe
+D:\ProjetosSimples\HangmanGame\bin\Debug\net7.0\HangmanGame.deps.json
+D:\ProjetosSimples\HangmanGame\bin\Debug\net7.0\HangmanGame.runtimeconfig.json
+D:\ProjetosSimples\HangmanGame\bin\Debug\net7.0\HangmanGame.dll
+D:\ProjetosSimples\HangmanGame\bin\Debug\net7.0\HangmanGame.pdb
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\HangmanGame.csproj.AssemblyReference.cache
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\HangmanGame.AssemblyInfoInputs.cache
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\HangmanGame.AssemblyInfo.cs
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\HangmanGame.csproj.CoreCompileInputs.cache
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\HangmanGame.dll
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\refint\HangmanGame.dll
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\HangmanGame.pdb
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\HangmanGame.genruntimeconfig.cache
+D:\ProjetosSimples\HangmanGame\obj\Debug\net7.0\ref\HangmanGame.dll
